@@ -1,0 +1,3 @@
+[submodule "MultiRepTest1"]
+	path = MultiRepTest1
+	url = https://github.com/emiprogithub/MultiRepTest1.git
